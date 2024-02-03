@@ -13,3 +13,7 @@ H- Check if punctuation in title and tage have any relation with views, likes an
 
 2- S&P 500 - Stock PRice Analysis
 A- time series analysis 
+B- changes in the price of stocks
+C- moving average of stocks
+D- closing price change in apple stock
+E- resampling analysis 
